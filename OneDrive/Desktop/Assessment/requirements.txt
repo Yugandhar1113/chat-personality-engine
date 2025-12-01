@@ -1,0 +1,10 @@
+# Python dependencies for Memory Extraction & Personality Engine
+# This project uses only standard library modules, so no external dependencies are required.
+
+# However, if you want to enhance the project with NLP libraries, you could add:
+# nltk>=3.8.1
+# spacy>=3.5.0
+# textblob>=0.17.1
+
+# For now, the project works with Python 3.7+ standard library only.
+
